@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             -webkit-filter: blur(1px) !important;
             }
 
-            .cpmbox {
+            .cmpbox {
             box-shadow: 5px 4px 20px 9px rgba(66, 66, 66, 0.21) !important;
             border-radius: 16px !important;
             max-height: 70% !important;
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
             border-bottom: 0px !important;
             }
 
-            .cpmbox p {
+            .cmpbox p {
             margin-bottom: -5px !important;
             }
 
